@@ -82,7 +82,7 @@ header {
 .top-section {
   background-image: url(../images/bg-hero-desktop.svg);
   background-color: hsl(193, 100%, 96%);
-  height: 100vh;
+  height: 700px;
 }
 
 main {
@@ -265,6 +265,9 @@ ul {
   main {
     display: flex;
     flex-direction: column;
+  }
+  .main-txt {
+    margin-top: 50px;
   }
   .main-img {
     width: 100%;
